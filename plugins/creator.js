@@ -1,5 +1,5 @@
 let handler = function (m) {
-  // this.sendContact(m.chat, '6281515860089', 'Nurutomo', m)
+  // this.sendContact(m.chat, '212601257461', 'Nurutomo', m)
   conn.sendContact(m.chat, '212601257461', 'My Owner', m)
   
 }
