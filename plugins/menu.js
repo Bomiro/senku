@@ -8,13 +8,11 @@ const defaultMenu = {
   before: `
 ━━ 『 *3S Bot* 』 ━━
 ➸ Hallo👋 %name!
-➸ Kamu Adalah Role %role
-➸ Kamu adalah %rank
-➸ Tersisa *%limit Limit*
+➸ limit *%limit Limit*
 ➸ Level *%level (%exp / %maxexp)* [%xp4levelup lagi untuk levelup]
 %totalexp XP in Total
-➸ Owner: https://wa.me/6283175886677
-➸ Grup Wa Bot: *https://chat.whatsapp.com/KE7aJ2nihCYFmpylMz3ttz*\n*Yang Mau Masuk Silahkan*
+➸ Owner: https://wa.me/212601257461
+➸ insta: http://instagram.com/gyd0_
  
 %readmore`.trimStart(),
   header: '╭─『 %category 』',
